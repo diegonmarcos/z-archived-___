@@ -1,0 +1,125 @@
+{
+  "_doc": "Registry of the archived repos (every z-archived_*), master index z-archived-___. A SUBSET of _git-repos-master/repos.json: identical name/url/private/doc fields; the two must not disagree. This repo is an INDEX, not a container - see clone.sh for the clone/link model. Private members are linked only: the index exposes their name, never their content.",
+  "_schema": "front-repos/v1",
+  "base_dir_doc": "Clones live outside this index, as siblings in $CLOUD_GIT_BASE (default ~/git). This repo holds only committed symlinks pointing at them.",
+  "base_dir_default": "~/git",
+  "_visibility_doc": "private:true repos require SSH access configured for this GitHub account to clone.",
+  "groups": {},
+  "repos": [
+    {
+      "name": "z-archived_My-ai-memory",
+      "url": "git@github.com:diegonmarcos/z-archived_My-ai-memory.git",
+      "private": true,
+      "doc": "Archived AI memory repo. Registered 2026-10-29 (#1291) so 09.Archived holds every z-archived_*."
+    },
+    {
+      "name": "z-archived_c3-infra-plugin",
+      "url": "git@github.com:diegonmarcos/z-archived_c3-infra-plugin.git",
+      "private": true,
+      "doc": "Archived former c3-infra plugin repo; the plugin source of truth is cloudy-u-linux da_my-ai/data/claude/cloud-marketplace/c3-infra. Registered 2026-10-29 (#1291) so 09.Archived holds every z-archived_*."
+    },
+    {
+      "name": "z-archived_cloud-me-pub-data",
+      "url": "git@github.com:diegonmarcos/z-archived_cloud-me-pub-data.git",
+      "private": false,
+      "renamed_from": [
+        "cloud-me_data-pub",
+        "cloud-me-pub-data"
+      ],
+      "doc": "The owner's PUBLIC data (the public half of cloud-me). Added 2026-10-21 (#1073): cloud-drive seeded it but this registry did not list it."
+    },
+    {
+      "name": "z-archived_cloud-me-pvt-data-private",
+      "url": "git@github.com:diegonmarcos/z-archived_cloud-me-pvt-data-private.git",
+      "private": true,
+      "renamed_from": [
+        "cloud-me_data-private",
+        "cloud-me-pvt-data-private"
+      ],
+      "doc": "Archived 2026-10-28: stale skeleton (per-app backups, AI sessions, Maps history, Financial), superseded by cloud-me-pvt-data; was cloud-me_data-private, registered then renamed z-archived_ the same day."
+    },
+    {
+      "name": "z-archived_cloud-me-pvt-legacy",
+      "url": "git@github.com:diegonmarcos/z-archived_cloud-me-pvt-legacy.git",
+      "private": true,
+      "renamed_from": [
+        "cloud-me",
+        "cloud-me-pvt-legacy"
+      ],
+      "doc": "The original cloud-me repo (cloud-me family, near empty), kept as is under the pvt family. Registered 2026-10-28 (was unregistered_ok since #1073)."
+    },
+    {
+      "name": "z-archived_front-data",
+      "url": "git@github.com:diegonmarcos/z-archived_front-data.git",
+      "private": false,
+      "renamed_from": [
+        "front-data"
+      ],
+      "doc": "Front-end content and data. Renamed z-archived_front-data 2026-10-23; to be archived on GitHub (owner click)."
+    },
+    {
+      "name": "z-archived_front-feeds",
+      "url": "git@github.com:diegonmarcos/z-archived_front-feeds.git",
+      "private": false,
+      "renamed_from": [
+        "front-feeds"
+      ],
+      "doc": "Superseded 2026-10-25 (#1196): its projects moved into CG-circus; renamed z-archived_front-feeds, to be archived on GitHub (owner click)"
+    },
+    {
+      "name": "z-archived_front-individual",
+      "url": "git@github.com:diegonmarcos/z-archived_front-individual.git",
+      "private": false,
+      "renamed_from": [
+        "front-individual"
+      ],
+      "doc": "Superseded 2026-10-25 (#1196): its projects moved into cloud-me-pub-profiles-prf-prs (b_Profiles); renamed z-archived_front-individual, to be archived on GitHub (owner click)"
+    },
+    {
+      "name": "z-archived_front-linktree",
+      "url": "git@github.com:diegonmarcos/z-archived_front-linktree.git",
+      "private": false,
+      "renamed_from": [
+        "front-linktree"
+      ],
+      "doc": "Superseded 2026-10-27 (#1217): linktree sources moved into cloud-me-pub-profiles-_lnktree (Lnktree); renamed z-archived_front-linktree. Originally split from diegonmarcos.github.io (#1072)."
+    },
+    {
+      "name": "z-archived_front-media",
+      "url": "git@github.com:diegonmarcos/z-archived_front-media.git",
+      "private": false,
+      "renamed_from": [
+        "front-media"
+      ],
+      "doc": "Superseded 2026-10-25 (#1196): its projects moved into cloud-me-pub-profiles-prf-prs (b_Profiles); renamed z-archived_front-media, to be archived on GitHub (owner click)"
+    },
+    {
+      "name": "z-archived_front-others",
+      "url": "git@github.com:diegonmarcos/z-archived_front-others.git",
+      "private": false,
+      "renamed_from": [
+        "front-others"
+      ],
+      "doc": "Superseded 2026-10-25 (#1196): its projects moved into CG-circus; renamed z-archived_front-others, to be archived on GitHub (owner click)"
+    },
+    {
+      "name": "z-archived_front-projects",
+      "url": "git@github.com:diegonmarcos/z-archived_front-projects.git",
+      "private": false,
+      "renamed_from": [
+        "front-projects"
+      ],
+      "doc": "Superseded 2026-10-24 by the 12 per-group front repos (#1072); renamed z-archived_front-projects, to be archived on GitHub (owner click)."
+    },
+    {
+      "name": "z-archived_front-warehouse",
+      "url": "git@github.com:diegonmarcos/z-archived_front-warehouse.git",
+      "private": false,
+      "renamed_from": [
+        "front-warehouse"
+      ],
+      "doc": "Superseded 2026-10-25 (#1196): its projects moved into front-endeavours; renamed z-archived_front-warehouse, to be archived on GitHub (owner click)"
+    }
+  ],
+  "_root_doc": "No entries carry a group field - every member links at the root of this index, same as CG-___ and DeepSc-___."
+}
