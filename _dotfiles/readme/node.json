@@ -1,0 +1,138 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived-___",
+  "label": "z-archived-___",
+  "code": "8.0",
+  "kind": "hub",
+  "variant": "hub",
+  "description": "Hub of the archived repos (z-archived_*): repos.json subset, clone.sh, README. Parent hub: _git-repos-master.",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived-___",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    }
+  ],
+  "hub": {
+    "name": "_git-repos-master",
+    "code": "0",
+    "url": "https://github.com/diegonmarcos/_git-repos-master"
+  },
+  "base_dir": "git",
+  "members": [
+    {
+      "code": "8.1.1.1",
+      "name": "z-archived_cloud-me-pub-data",
+      "url": "https://github.com/diegonmarcos/z-archived_cloud-me-pub-data",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "cloud-me data (public): e.g. Health"
+    },
+    {
+      "code": "8.1.1.2",
+      "name": "z-archived_cloud-me-pvt-data-private",
+      "url": "https://github.com/diegonmarcos/z-archived_cloud-me-pvt-data-private",
+      "visibility": "private",
+      "kind": "repo",
+      "description": "cloud-me data (private): per-app backups, AI sessions, Maps history, Financial"
+    },
+    {
+      "code": "8.1.1.3",
+      "name": "z-archived_cloud-me-pvt-legacy",
+      "url": "https://github.com/diegonmarcos/z-archived_cloud-me-pvt-legacy",
+      "visibility": "private",
+      "kind": "repo",
+      "description": "cloud-me — cloud-me family"
+    },
+    {
+      "code": "8.1.2.1",
+      "name": "z-archived_front-data",
+      "url": "https://github.com/diegonmarcos/z-archived_front-data",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Auto-synced front-end monorepo data (topology, deps) — updated by Dagu"
+    },
+    {
+      "code": "8.1.2.2",
+      "name": "z-archived_front-feeds",
+      "url": "https://github.com/diegonmarcos/z-archived_front-feeds",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group b_Data (split from front-projects, #1072)"
+    },
+    {
+      "code": "8.1.2.3",
+      "name": "z-archived_front-individual",
+      "url": "https://github.com/diegonmarcos/z-archived_front-individual",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group a_Individual (split from front-projects, #1072)"
+    },
+    {
+      "code": "8.1.2.4",
+      "name": "z-archived_front-linktree",
+      "url": "https://github.com/diegonmarcos/z-archived_front-linktree",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Linktree portal (split from diegonmarcos.github.io, #1072)"
+    },
+    {
+      "code": "8.1.2.5",
+      "name": "z-archived_front-media",
+      "url": "https://github.com/diegonmarcos/z-archived_front-media",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group b_Media (split from front-projects, #1072)"
+    },
+    {
+      "code": "8.1.2.6",
+      "name": "z-archived_front-others",
+      "url": "https://github.com/diegonmarcos/z-archived_front-others",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group e-Others (split from front-projects, #1072)"
+    },
+    {
+      "code": "8.1.2.7",
+      "name": "z-archived_front-projects",
+      "url": "https://github.com/diegonmarcos/z-archived_front-projects",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front-end projects (split from diegonmarcos.github.io, #1072)"
+    },
+    {
+      "code": "8.1.2.8",
+      "name": "z-archived_front-warehouse",
+      "url": "https://github.com/diegonmarcos/z-archived_front-warehouse",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group a_Projects (split from front-projects, #1072)"
+    },
+    {
+      "code": "8.1.3.1",
+      "name": "z-archived_c3-infra-plugin",
+      "url": "https://github.com/diegonmarcos/z-archived_c3-infra-plugin",
+      "visibility": "private",
+      "kind": "repo",
+      "description": "c3-infra Claude Code plugin and marketplace: owner rules, agents, guard hooks"
+    },
+    {
+      "code": "8.1.3.2",
+      "name": "z-archived_My-ai-memory",
+      "url": "https://github.com/diegonmarcos/z-archived_My-ai-memory",
+      "visibility": "private",
+      "kind": "repo",
+      "description": ""
+    }
+  ],
+  "tree": [
+    "└── 0_hub/",
+    "    └── _git-repos-master (submodule)"
+  ]
+}
