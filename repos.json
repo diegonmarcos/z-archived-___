@@ -20,7 +20,7 @@
         "Projects-labtools",
         "front-labtools"
       ],
-      "doc": "Sources of the former c_LabTools group, split from front-projects (#1072); since #1218 laid out as a-Lfy_C3 only; a-Lfy_CG-Zirkus, b-Nxs_PA, b-Nxs_Blmmbrg, c-Stk_DsX were moved with history to CG-circus, Fin-CM-mqpm, Fin-CM-Blmbrg, CAD-Simulators (labtools 741bb8b, 2026-10-28). Archived 2026-10-30: empty except pointer READMEs; renamed z-archived_Projects-labtools, to be archived on GitHub (owner click)."
+      "doc": "Sources of the former c_LabTools group, split from front-projects (#1072); since #1218 laid out as a-Lfy_C3 only; a-Lfy_CG-Zirkus, b-Nxs_PA, b-Nxs_Blmmbrg, c-Stk_DsX were moved with history to CG-circus, Capital-Macro-Central-Bank, Capital-Stack-Fin-Terminal, HardTech-Stack-CAD-Simulators (labtools 741bb8b, 2026-10-28). Archived 2026-10-30: empty except pointer READMEs; renamed z-archived_Projects-labtools, to be archived on GitHub (owner click)."
     },
     {
       "name": "z-archived_c3-infra-plugin",
@@ -131,5 +131,5 @@
       "doc": "Superseded 2026-10-25 (#1196): its projects moved into front-endeavours; renamed z-archived_front-warehouse, to be archived on GitHub (owner click)"
     }
   ],
-  "_root_doc": "No entries carry a group field - every member links at the root of this index, same as CG-___ and DeepSc-___."
+  "_root_doc": "No entries carry a group field - every member links at the root of this index, same as CG-___ and HardTech-___."
 }

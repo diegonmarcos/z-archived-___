@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | `8.0` | 🌐 public | [_git-repos-master](https://github.com/diegonmarcos/_git-repos-master) `0` | Z-archived | `8.Archived/` |
 
-Registry index for the archived repos (every `z-archived_*`) - same model as `CG-___`, `DeepSc-___` and `cloudy-___`. This repo is an INDEX, not a container: it holds `repos.json` (a subset of _git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the clones live as siblings in `~/git/`. In _git-repos-master these repos sit in `09.Archived/`.
+Registry index for the archived repos (every `z-archived_*`) - same model as `CG-___`, `HardTech-___` and `cloudy-___`. This repo is an INDEX, not a container: it holds `repos.json` (a subset of _git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the clones live as siblings in `~/git/`. In _git-repos-master these repos sit in `09.Archived/`.
 
 ## Members
 
