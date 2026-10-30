@@ -39,6 +39,16 @@
       "doc": "The owner's PUBLIC data (the public half of cloud-me). Added 2026-10-21 (#1073): cloud-drive seeded it but this registry did not list it."
     },
     {
+      "name": "z-archived_cloud-me-pvt-containers",
+      "url": "git@github.com:diegonmarcos/z-archived_cloud-me-pvt-containers.git",
+      "private": true,
+      "renamed_from": [
+        "cloud-me-containers",
+        "cloud-me-pvt-containers"
+      ],
+      "doc": "Merged into cloud-me-pvt-configs Linux-Containers/ 2026-10-30 (#1310, non-secret files with history); its sops files live only in cloud-me-pvt-vault Linux-Containers/ (#1253). Contents left intact. Archived 2026-10-30: renamed z-archived_cloud-me-pvt-containers on GitHub by the owner."
+    },
+    {
       "name": "z-archived_cloud-me-pvt-data-private",
       "url": "git@github.com:diegonmarcos/z-archived_cloud-me-pvt-data-private.git",
       "private": true,

@@ -14,13 +14,14 @@ Registry index for the archived repos (every `z-archived_*`) - same model as `CG
 
 ## Members
 
-14 member(s), from the registry (`0_registry/projects-repos.json` in _git-repos-master).
+15 member(s), from the registry (`0_registry/projects-repos.json` in _git-repos-master).
 
 | Code | Repo | Visibility | Description |
 |---|---|---|---|
 | `8.1.1.1` | [z-archived_cloud-me-pub-data](https://github.com/diegonmarcos/z-archived_cloud-me-pub-data) | 🌐 public | cloud-me data (public): e.g. Health |
 | `8.1.1.2` | [z-archived_cloud-me-pvt-data-private](https://github.com/diegonmarcos/z-archived_cloud-me-pvt-data-private) | 🔒 private | cloud-me data (private): per-app backups, AI sessions, Maps history, Financial |
 | `8.1.1.3` | [z-archived_cloud-me-pvt-legacy](https://github.com/diegonmarcos/z-archived_cloud-me-pvt-legacy) | 🔒 private | cloud-me — cloud-me family |
+| `8.1.1.4` | [z-archived_cloud-me-pvt-containers](https://github.com/diegonmarcos/z-archived_cloud-me-pvt-containers) | 🔒 private | Superseded by cloud-me-pvt-configs Linux-Containers (archived) |
 | `8.1.2.1` | [z-archived_front-data](https://github.com/diegonmarcos/z-archived_front-data) | 🌐 public | Auto-synced front-end monorepo data (topology, deps) — updated by Dagu |
 | `8.1.2.2` | [z-archived_front-feeds](https://github.com/diegonmarcos/z-archived_front-feeds) | 🌐 public | Front group b_Data (split from front-projects, #1072) |
 | `8.1.2.3` | [z-archived_front-individual](https://github.com/diegonmarcos/z-archived_front-individual) | 🌐 public | Front group a_Individual (split from front-projects, #1072) |
