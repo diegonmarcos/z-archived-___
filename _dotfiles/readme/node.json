@@ -129,6 +129,14 @@
       "visibility": "private",
       "kind": "repo",
       "description": ""
+    },
+    {
+      "code": "8.1.4.1",
+      "name": "z-archived_Projects-labtools",
+      "url": "https://github.com/diegonmarcos/z-archived_Projects-labtools",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Front group c_LabTools (split from front-projects, #1072)"
     }
   ],
   "tree": [

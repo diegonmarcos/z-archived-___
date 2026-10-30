@@ -14,7 +14,7 @@ Registry index for the archived repos (every `z-archived_*`) - same model as `CG
 
 ## Members
 
-13 member(s), from the registry (`projects-repos.json` in _git-repos-master).
+14 member(s), from the registry (`projects-repos.json` in _git-repos-master).
 
 | Code | Repo | Visibility | Description |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Registry index for the archived repos (every `z-archived_*`) - same model as `CG
 | `8.1.2.8` | [z-archived_front-warehouse](https://github.com/diegonmarcos/z-archived_front-warehouse) | 🌐 public | Front group a_Projects (split from front-projects, #1072) |
 | `8.1.3.1` | [z-archived_c3-infra-plugin](https://github.com/diegonmarcos/z-archived_c3-infra-plugin) | 🔒 private | c3-infra Claude Code plugin and marketplace: owner rules, agents, guard hooks |
 | `8.1.3.2` | [z-archived_My-ai-memory](https://github.com/diegonmarcos/z-archived_My-ai-memory) | 🔒 private |  |
+| `8.1.4.1` | [z-archived_Projects-labtools](https://github.com/diegonmarcos/z-archived_Projects-labtools) | 🌐 public | Front group c_LabTools (split from front-projects, #1072) |
 
 ## Usage
 

@@ -13,6 +13,16 @@
       "doc": "Archived AI memory repo. Registered 2026-10-29 (#1291) so 09.Archived holds every z-archived_*."
     },
     {
+      "name": "z-archived_Projects-labtools",
+      "url": "git@github.com:diegonmarcos/z-archived_Projects-labtools.git",
+      "private": false,
+      "renamed_from": [
+        "Projects-labtools",
+        "front-labtools"
+      ],
+      "doc": "Sources of the former c_LabTools group, split from front-projects (#1072); since #1218 laid out as a-Lfy_C3 only; a-Lfy_CG-Zirkus, b-Nxs_PA, b-Nxs_Blmmbrg, c-Stk_DsX were moved with history to CG-circus, Fin-CM-mqpm, Fin-CM-Blmbrg, CAD-Simulators (labtools 741bb8b, 2026-10-28). Archived 2026-10-30: empty except pointer READMEs; renamed z-archived_Projects-labtools, to be archived on GitHub (owner click)."
+    },
+    {
       "name": "z-archived_c3-infra-plugin",
       "url": "git@github.com:diegonmarcos/z-archived_c3-infra-plugin.git",
       "private": true,
